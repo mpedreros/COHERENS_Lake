@@ -5,4 +5,4 @@ In this repository, there are the codes used in the article: Thermal patterns in
 
 Assets: 
 Lake Lanalhue shape: https://code.earthengine.google.com/?asset=projects/ee-doctoradoca/assets/LakeLanalhue
-Study area shape: 
+Study area shape: https://code.earthengine.google.com/?asset=projects/ee-doctoradoca/assets/geometry
