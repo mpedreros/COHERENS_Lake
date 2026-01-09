@@ -10,3 +10,4 @@ Lake Lanalhue shape: https://code.earthengine.google.com/?asset=projects/ee-doct
 Study area shape: https://code.earthengine.google.com/?asset=projects/ee-doctoradoca/assets/geometry
 
 2. COHERENS setup for Lake Lanalhue: Usrdef_Model.f90
+3. Auxiliar documents: Usrdef_Surface_Data.f90, Usrdef_Time_Series.f90, defruns, II_HD_init_112001_10lev.dat.
