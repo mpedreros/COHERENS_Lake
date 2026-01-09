@@ -8,3 +8,5 @@ Assets:
 Lake Lanalhue shape: https://code.earthengine.google.com/?asset=projects/ee-doctoradoca/assets/LakeLanalhue
 
 Study area shape: https://code.earthengine.google.com/?asset=projects/ee-doctoradoca/assets/geometry
+
+2. COHERENS setup for Lake Lanalhue: Usrdef_Model.f90
